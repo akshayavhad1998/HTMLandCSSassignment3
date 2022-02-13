@@ -1,0 +1,42 @@
+.container{
+    width:1200px;
+    margin: auto;
+    margin-left: 30px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:30% ;
+    margin: auto;
+    border: 2px solid rgb(238, 24, 24);
+}
+.box3{
+    width: 40%;
+    border: 4px dashed rgb(70, 187, 115);
+    margin: auto;
+    margin-top: 40px;
+}
+.box3 img{
+    width: 100%;
+
+}
+.box4{
+    width: 40%;
+    margin: auto;
+    margin-top: 40px ;
+    border: 2px solid rgb(139, 9, 245);
+}
+.box4 .box4_1{
+    width: 40%;
+    margin: auto;
+}
+.box4_1 img{
+    width: 100%;
+    margin: auto;
+}
+.box5 .box5_1
+{width: 25%;
+margin: auto;
+}
